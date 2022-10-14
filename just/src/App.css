@@ -9,3 +9,33 @@ h1{
     background-color: black;
     color: aliceblue;
 }
+.green{
+    background-color: white;
+}
+.red{
+    background-color: white;
+}
+.green:hover{
+    background-color: rgb(76, 238, 76);
+    color: white;
+}
+.red:hover{
+    background-color: rgb(236, 102, 102);
+    color: white;
+}
+.myOwnHeader{
+    background-image: linear-gradient(to right, rgb(103, 103, 255), rgb(0, 200, 255));
+    color: white;
+}
+button{
+    border: 0;
+    background-color: rgb(11, 254, 15);
+    padding: 3px;
+    border-radius: 5px;
+    /* color: white; */
+    margin: 5px;
+}
+.orange{
+    background-color: rgb(255, 166, 0);
+    color: white;
+}
