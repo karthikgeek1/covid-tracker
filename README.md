@@ -1,2 +1,3 @@
 # covid-tracker
-![image](https://user-images.githubusercontent.com/104209441/193466458-bdd19e6b-f450-48ba-90a3-f074ff8f242a.png)
+![image](https://user-images.githubusercontent.com/104209441/195904136-d22dd2ad-e604-4e83-af5e-290b8cbe561d.png)
+
